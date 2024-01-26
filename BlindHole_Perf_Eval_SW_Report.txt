@@ -1,0 +1,10 @@
+Instance of the following were suppressed or opened from new location when this file was opened
+
+File	Reason	
+C:\Users\breid\Documents\Dropbox\Geo\GEOHEAT02USP1-PatentApplications\CAD-ThermalShortCircuitBarrier\CopyDesignTemp\1103201690.SLDPRT	Unable to locate the file
+C:\Users\breid\Documents\Dropbox\Geo\GEOHEAT02USP1-PatentApplications\CAD-ThermalShortCircuitBarrier\CopyDesignTemp\Bedrock.SLDPRT	Unable to locate the file
+C:\Users\breid\Documents\Dropbox\Geo\GEOHEAT02USP1-PatentApplications\CAD-ThermalShortCircuitBarrier\CopyDesignTemp\BigChangeSm.SLDASM	Unable to locate the file
+C:\Users\breid\Documents\Dropbox\Geo\GEOHEAT02USP1-PatentApplications\CAD-ThermalShortCircuitBarrier\CopyDesignTemp\Casing.SLDPRT	Unable to locate the file
+C:\Users\breid\Documents\Dropbox\Geo\GEOHEAT02USP1-PatentApplications\CAD-ThermalShortCircuitBarrier\CopyDesignTemp\Overburden.SLDPRT	Unable to locate the file
+C:\Users\breid\Documents\Dropbox\Geo\GEOHEAT02USP1-PatentApplications\CAD-ThermalShortCircuitBarrier\CopyDesignTemp\TopConstraint.SLDPRT	Unable to locate the file
+
